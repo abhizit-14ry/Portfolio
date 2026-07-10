@@ -4,7 +4,7 @@ Welcome to my **React.js Portfolio**! 🌐
 This project showcases my skills, projects, education, and professional journey as a B.Tech Computer Science & Engineering student aspiring for a role in the IT sector.
 
 ## 🔗 Live Demo
-[View Live Portfolio]()
+[View Live Portfolio](https://github.com/abhizit-14ry/Portfolio.git)
 
 ## 💻 Technologies Used
 - **Frontend:** React.js, HTML5, CSS3, JavaScript
@@ -24,7 +24,7 @@ This project showcases my skills, projects, education, and professional journey 
 
 ## 🚀 How to Run Locally
 1. Clone the repository:
-   git clone https://github.com/JyotiPatel04/jyoti-portfolio.git
+   git clone https://github.com/abhizit-14ry/Portfolio.git
 
 2. Navigate to the project directory:
    cd Portfolio
