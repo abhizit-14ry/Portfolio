@@ -1,10 +1,10 @@
-# Jyoti Patel – Personal Portfolio
+# Abhijeet Chaudhary – Personal Portfolio
 
 Welcome to my **React.js Portfolio**! 🌐  
-This project showcases my skills, projects, education, and professional journey as a B.Tech Electronics Engineering student aspiring for a role in the IT sector.
+This project showcases my skills, projects, education, and professional journey as a B.Tech Computer Science & Engineering student aspiring for a role in the IT sector.
 
 ## 🔗 Live Demo
-[View Live Portfolio](https://jyoti-portfolio-one.vercel.app/)
+[View Live Portfolio]()
 
 ## 💻 Technologies Used
 - **Frontend:** React.js, HTML5, CSS3, JavaScript
@@ -27,15 +27,15 @@ This project showcases my skills, projects, education, and professional journey 
    git clone https://github.com/JyotiPatel04/jyoti-portfolio.git
 
 2. Navigate to the project directory:
-   cd Jyoti-Portfolio
+   cd Portfolio
 
 3. Install dependencies:
    npm install
 
 4. Start the development server:
-   npm start
+   npm run dev
 
 📌 About Me
 
-I am a B.Tech Electronics Engineering student with a passion for frontend development, learning new technologies, and building interactive web applications.
+I am a B.Tech Computer Science & Engineering student with a passion for frontend development, learning new technologies, and building interactive web applications.
    
