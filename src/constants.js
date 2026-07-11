@@ -31,7 +31,7 @@ import upboardLogo from './assets/education_logo/upboard_logo.png';
 
 import QuickLogo from './assets/work_logo/quickcart.png';
 import AIResumeLogo from './assets/work_logo/ai_resume.png';
-import GYMLogo from './assets/work_logo/gym.png';
+import GYMLogo from './assets/work_logo/E-Tutor.png';
 
 
 
@@ -161,13 +161,13 @@ export const SkillsInfo = [
     
     {
       id: 2,
-      title: "GYM-MERN-Project",
+      title: "E-Tutor",
       description:
-      "A web application for a gym management system designed to provide an efficient and user-friendly platform for managing gym members, workouts, and schedules. The app features a responsive design, interactive elements, and a user-friendly interface to enhance accessibility and engagement.",
+      "Built a responsive E-Tutor web application using React.js, featuring modern UI/UX, interactive learning modules, seamless navigation, and optimized performance for an enhanced online learning experience.",
       image: GYMLogo,
-      tags: ["HTML", "CSS", "JavaScript", "React JS", "Node.js", "Express.js"],
-      github: "https://github.com/JyotiPatel04/GYM-MERN-PROJECT",
-      webapp: "https://gym-mern-project-fkip.vercel.app",
+      tags: ["HTML", "CSS", "JavaScript", "React JS"],
+      github: "https://github.com/abhizit-14ry/E-Tutor-Website.git",
+      webapp: "https://e-tutor-website.vercel.app/",
     },
     
   ];  

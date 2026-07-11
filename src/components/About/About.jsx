@@ -26,12 +26,10 @@ const About = () => {
             <ReactTypingEffect
               text={[
                 'Frontend Developer',
-                'Web Developer',
-                'UI/UX Designer',
-                'Coder',
+                'Backend Developer',
                 'FullStack Developer',
+                'MERN Developer',
                 'Software Developer',
-                'Tech Enthusiast',
               ]}
               speed={100}
               eraseSpeed={50}
@@ -44,10 +42,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-           I am a passionate fullstack developer with hands-on experience in building responsive 
-           and interactive web applications using HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB.
-I          enjoy learning new technologies and am eager to start my professional journey 
-           in the IT industry.
+           I'm a Full Stack MERN Developer with hands-on experience in building responsive, scalable, and user-friendly web applications using MongoDB, Express.js, React.js, and Node.js. I specialize in developing RESTful APIs, integrating databases, and creating modern, high-performance frontend interfaces. Passionate about clean code, problem-solving, and continuous learning, I enjoy turning ideas into efficient digital solutions while following industry best practices and delivering seamless user experiences.
           </p>
           {/* Resume Button */}
           <a
