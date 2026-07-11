@@ -4,7 +4,7 @@ Welcome to my **React.js Portfolio**! 🌐
 This project showcases my skills, projects, education, and professional journey as a B.Tech Computer Science & Engineering student aspiring for a role in the IT sector.
 
 ## 🔗 Live Demo
-[View Live Portfolio](https://github.com/abhizit-14ry/Portfolio.git)
+[View Live Portfolio](https://portfolio-fawn-mu-93.vercel.app/)
 
 ## 💻 Technologies Used
 - **Frontend:** React.js, HTML5, CSS3, JavaScript
