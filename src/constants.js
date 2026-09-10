@@ -29,9 +29,9 @@ import upboardLogo from './assets/education_logo/upboard_logo.png';
 
 // Project Section Logo's
 
-import QuickLogo from './assets/work_logo/quickcart.png';
-import AIResumeLogo from './assets/work_logo/ai_resume.png';
-import GYMLogo from './assets/work_logo/E-Tutor.png';
+import AILogo from './assets/work_logo/notepilot.png';
+import EMSLogo from './assets/work_logo/ems_login.png';
+import TutorLogo from './assets/work_logo/E-Tutor.png';
 
 
 
@@ -138,34 +138,34 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "QuickCart — Full Stack MERN E-commerce Application",
+      title: "NotePilot — AI Exam Notes Generator (MERN Stack)",
       description:
-      "Developed a full-stack MERN E-commerce application with features like product browsing, cart management, user authentication, and secure order handling.",
-      image: QuickLogo,
-      tags: ["HTML", "CSS", "JavaScript", "React JS", "Node.js", "Express.js", "MongoDB" ],
-      github: "https://github.com/JyotiPatel04/quickcart-ecommerce",
-      webapp: "https://quickcart-ecommerce-seven.vercel.app",
+      "Built responsive full-stack features with React, Node.js, Express, MongoDB, and AI integration to improve student productivity and learning outcomes.",
+      image: AILogo,
+      tags: ["HTML", "CSS", "JavaScript", "React JS", "Node.js", "Express.js", "MongoDB", "JWT", "Google Gemini API" ],
+      github: "https://github.com/abhizit-14ry/NotePilot---AI-Exam-Notes-Generator",
+      webapp: "",
     },
     
     {
       id: 1,
-      title: "AI Resume Screening & Match Score System (MERN Stack)",
+      title: "Employee Management System (MERN Stack)",
       description:
-      "Developed an AI-powered Resume Screening System that analyzes resumes, matches skills with job requirements, and helps shortlist suitable candidates efficiently.",
-      image: AIResumeLogo,
-      tags: ["HTML", "CSS", "JavaScript", "React JS", "Node.js", "Express.js", "MongoDB" ],
-      github: "https://github.com/JyotiPatel04/AI_MERN_Resume",
-      webapp: "https://ai-mern-resume.vercel.app",
+      "Built a full-stack Employee Management System using MongoDB, Express.js, React, and Node.js to streamline employee records, roles, attendance, and administrative workflows.",
+      image: EMSLogo,
+      tags: ["HTML", "CSS", "JavaScript", "React JS", "Node.js", "Express.js", "MongoDB", "Cloudinary" ],
+      github: "https://github.com/abhizit-14ry/Employee-Management-System",
+      webapp: "",
     },  
     
     
     {
       id: 2,
-      title: "E-Tutor",
+      title: "E-Tutor — Online Learning Platform (Frontend)",
       description:
       "Built a responsive E-Tutor web application using React.js, featuring modern UI/UX, interactive learning modules, seamless navigation, and optimized performance for an enhanced online learning experience.",
-      image: GYMLogo,
-      tags: ["HTML", "CSS", "JavaScript", "React JS"],
+      image: TutorLogo,
+      tags: ["HTML", "CSS", "JavaScript", "React JS", "Tailwind CSS", "Vite", "React DOM"],
       github: "https://github.com/abhizit-14ry/E-Tutor-Website.git",
       webapp: "https://e-tutor-website.vercel.app/",
     },
