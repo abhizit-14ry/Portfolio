@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactTypingEffect from 'react-typing-effect';
 import Tilt from 'react-parallax-tilt';
-import profileImage from '../../assets/dp.png';
+import profileImage from '../../assets/Abhi.png';
 
 const About = () => {
   return (
@@ -72,7 +72,7 @@ const About = () => {
           >
             <img
               src={profileImage}
-              alt="Jyoti Patel"
+              alt="Abhijeet Chaudhary"
               className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"
             />
           </Tilt>
