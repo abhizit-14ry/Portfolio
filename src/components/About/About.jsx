@@ -29,7 +29,6 @@ const About = () => {
                 'Backend Developer',
                 'FullStack Developer',
                 'MERN Developer',
-                'Software Developer',
               ]}
               speed={100}
               eraseSpeed={50}
@@ -46,7 +45,7 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/15E_-3mvmSyY2_NZIztAVJBIiHgCRFuFI/view?usp=sharing"
+            href="https://drive.google.com/file/d/1rq9So-BmyI-FldxM9t0zRGHig-6tF-Tj/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"

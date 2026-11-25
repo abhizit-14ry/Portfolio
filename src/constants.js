@@ -83,9 +83,9 @@ export const SkillsInfo = [
     {
       id: 0,
       img: ridezzup,
-      role: "Web Developer/ Frontend Developer",
+      role: "Frontend Developer Intern",
       company: "Ridezzup",
-      date: "July 2025 - October 2025",
+      date: "January 2026 - March 2026",
       desc: "Worked on developing and maintaining responsive web pages using HTML, CSS, JavaScript, and React. Assisted in improving UI components, fixing layout issues, and ensuring cross-browser compatibility. Collaborated with team members to update content, enhance user experience, and support ongoing web development tasks.",
       skills: [
         "HTML",
@@ -93,9 +93,6 @@ export const SkillsInfo = [
         "JavaScript",
         "React JS",
         "Tailwind CSS",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
       ],
        
     },
